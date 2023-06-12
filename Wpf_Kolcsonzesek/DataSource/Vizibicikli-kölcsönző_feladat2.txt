@@ -1,0 +1,72 @@
+
+
+3. Készitse el a Kolcsonzes osztály konstruktorat, mely hívásával az osztály adattagjait
+tudja inicializálni!
+
+4. Olvassa be a kolcsonzesek.txt állomány sorait és tárolja az adatokat egy
+Kolcsonzes osztályon alapuló összetett adatszerkezetben! Ügyeljen arra, hogy az
+állomany első sora az adatok fejlécét tartalmazza!
+
+5. Hatérozza meg és irja ki, hogy hany kdlesonzés adatai taldlhatok a forrasalloményban!
+
+6. Kérjen be egy nevet és irja ki, hogy az illet6 aznap mett6l meddig bérelt vizibiciklit!
+Elképzelhetd, hogy az illett tobbszor is kolesonzbtt aznap, ebben az esetben minden
+kolesénzés adatat jelenitse meg! Ha aznap egyszer sem kdlesonzott, akkor a ,Nem
+volt ilyen nevii kblcsdnzd!” sziveg jelenjen meg!
+
+7. Kétjen be egy idépontot éra:pere alakban, majd irja ki, hogy ekkor mely jarmivek
+voltak vizen, és azokat meddig és kik kélesonozték kil Peltételezheti, hogy a megadott
+iddpontban legaldbb egy jarmi a vizen volt. A kifrdsnal haszndljon vezetd nulldkat az
+egyjegyl éra és perc értékek eldtt!
+
+8. A jarmiivek kolcsonzési dija egységesen 2400 Ft minden megkezdett félrdnként.
+Hatérozza meg a napi bevétel Gsszegét és itja a képernybre!
+
+9. Sajnos az F jeldi jarmiivet valaki megrongalta. Hozzon létre ¥.txt néven UTF-8
+kédolést szoveges dllomédnyt, amely tartalmazza a lehetséges elkovetdket ¢s azt, hogy
+meitél meddig volt naluk a jarméi! Az llomdny szerkezete a kiadott minta szerinti
+legyen!
+
+10.Készitsen statisztikét, melyben megjeleniti, hogy az egyes jarmfiveket hányszor
+kölcsönözték a nap során! Oldja meg, hogy a járművek azonositói ábécérendben
+kövessék egymast a statisztika kiirásakor!
+
+Képernyőminta találat esetén a 6. feladatban:
+
+ 
+
+5. feladat: Napi kdlcsénzések szama: 33 q
+
+6. feladat: Kérek egy nevet: Kata |
+Kata kdlcstnzései:
+10:40-11:45 !
+12:48-13:47
+16:27-17:08 ]
+
+7. Feladat: Adjon meg egy iddpontot éra:perc alakban: 18:9
+A vizen lévd jarmiivek: |
+09:55-10:56 : Mihaly |
+10:01-10:58 : David
+10:05-11:04 : Armin
+
+8. feladat: A napi bevétel: 177660 Ft
+
+16. feladat: Statisztika
+A -
+
+aMMTmoNn©
+.
+pPOWRE RO
+
+ 
+
+ 
+
+ 
+
+ 
+
+KORLATOZOTT TERJESZTESU!
+
+T 9/10
+

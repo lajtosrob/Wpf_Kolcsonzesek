@@ -1,0 +1,66 @@
+
+Programozas (c#, linq)
+
+Vizibicikli-kölcsönző
+
+Ebben a feladatban egy Balaton-parti vizibicikli-kölcsönző egy napi forgalmi adatai
+állnak rendelkezésiinkre, melyekkel programozási feladatokat kell megoldania. A
+kölcsönzőben 7 db vizibicikli 4ll a strandolók rendelkezésre.
+
+A feladat megoldása során vegye figyelembe a következőket:
+
+A képernyőre írást igénylő részfeladatok eredményének megjelenitése előtt irja a
+képernyőre a feladat sorszámát (például.5. feladat:)!
+
+Az egyes feladatokban a kiírásokat a minta szerint készitse el!
+Az ékezetmentes azonositók és kiírások is elfogadottak.
+Az azonositókat kis- és nagybetűkkel is kezdheti,
+
+A program megirásakor az állományban levő adatok helyes szerkezetét nem kell
+ellenőriznie, feltételezheti, hogy a rendelkezésre álló adatok a leírtaknak
+megfelelnek.
+
+Megoldását úgy készitse el, hogy az azonos szerkezetű, de tetszéleges bemeneti
+adatok mellett is helyes eredményt adjon!
+
+A kolcsonzesek.txt UTF-8 kódolású forrásállomény soraiban egy-egy kölcsönzés
+adatait tároltuk a kivetkező sorrendben:
+
+Név, például; Mihaly
+
+Jármű azonositója (A, B, C, D, E, F, G): példaul: C
+Elvitel órája: 9
+
+Elvitel perce: 55
+
+Visszahozatal órája: 10
+
+Visszahozatal perce: 56
+
+Az állomány első sora a mezőneveket tartalmazza, az adatokat pontosvesszővel
+választottuk el:
+
+ 
+
+Név;JAzon;EGra;EPerc;VOra;Vperc
+Mihaly;C;9;55;10;56
+David;A;10;1;10;58
+Armin;B;10;5;11:4
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Készitsen grafikus vagy konzolalkalmazást (projektet) a következő feladatok
+megoldásához, amelynek projektjét vizibiciklikölcsönző néven mentse el!
+
+2. Hozzon Iétre saját osztályt Kolcsonzes azonositóval, melynek adattagjait
+felhasználva egy-egy kolcsönzés adatait tudja majd tárolni! A feladatot megoldhatja
+saját osztály definiálása nélkül is, de megoldása ebben az esetben nem teljes értékű.
+
+
+
